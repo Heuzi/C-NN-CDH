@@ -28,7 +28,7 @@ Run the section "KFOLD CODE"
 
 Run a section "Dataset: XXX", and then Run "Trying 10 fold: XXX"
 
-Note that you need to download the data set first and set the file path correctly.
+Note that you need to download the data set first and set the file path correctly. All data sets can be accessed through UCI repository.
 
 The code can be run on a google colab environment easily.
 

@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The code contains everything you need to conduct the experiment to compare the accuracy and balanced accuracy of following systems:
+The code contains everything you need to conduct the experiment, described in paper Case-based Classification using Neural Network Based Case Adaptation, to compare the accuracy and balanced accuracy of following systems:
 
 1-NN, 3-NN, neural network, normal C-CDH, C-NN-CDH, EAC-NN-CDH, C2C-NN-CDH.
 

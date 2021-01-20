@@ -53,3 +53,9 @@ Following randomness exist in the program and can be set with a seed.
 * In train_models(), train and validation split
 * In train_models(), random pairs
 * In section "KFOLD CODE", kf = KFold(n_splits=10, shuffle=True)
+
+## Updates
+
+1/20/2021 "classification experiment Unsegmented" added. This file contains the variants for unsegmented training adaptation examples. They are for variant (1,2)
+
+The old file "classification experiment.ipynb" is for variant (0) and (3-5), along with baseline systems including neural net, 3-NN, and 1-NN.
